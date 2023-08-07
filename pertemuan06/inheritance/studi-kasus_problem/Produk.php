@@ -63,4 +63,4 @@ $produk2 = new Produk("Far Cry 3", "Jonathan Doe", "Ubisoft", 300000, 0, 30, "ja
 echo $produk1->getInfoLengkap();
 echo "<br>";
 // Far Cry 3 | Jonathan Doe, Ubisoft (Rp. 300000) ~ 30 jam
-echo $produk1->getInfoLengkap();
+echo $produk2->getInfoLengkap();
