@@ -62,5 +62,5 @@ $produk2 = new Produk("Far Cry 3", "Jonathan Doe", "Ubisoft", 300000, 0, 30, "ja
 // Attack On Titan | Hajime Isayama, MAPPA (Rp. 45000) - 80 halaman
 echo $produk1->getInfoLengkap();
 echo "<br>";
+echo "<br>";
 // Far Cry 3 | Jonathan Doe, Ubisoft (Rp. 300000) ~ 30 jam
-echo $produk2->getInfoLengkap();
